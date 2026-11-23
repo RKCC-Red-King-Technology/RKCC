@@ -1,3 +1,9 @@
+@"
 # Java compiled output
 out/
 *.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+"@ | Set-Content .gitignore
